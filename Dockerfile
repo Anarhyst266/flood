@@ -1,7 +1,8 @@
-FROM alpine/bomardier AS bomb
-RUN mkdir -p /app
+FROM alpine/bombardier:latest
+RUN mkdir -p /app && chmod 777 /app/
 COPY run.sh /app/
 
 WORKDIR /app
-CMD "./run.sh"
+ENTRYPOINT []
+CMD ["./run.sh"]
 

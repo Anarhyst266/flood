@@ -95,3 +95,4 @@ http://www.bellegprom.by
 https://www.energo.by
 http://belres.by/ru/
 http://mininform.gov.by
+https://www.moex.com

@@ -193,3 +193,5 @@ https://db.vtb.ru
 https://ca.vks.rosguard.gov.ru/
 https://yoomoney.ru
 https://tass.ru/
+http://185.170.2.231
+http://185.170.2.232

@@ -197,3 +197,6 @@ http://185.170.2.231
 http://185.170.2.232
 https://online.sberbank.ru/
 https://moskva.beeline.ru/
+https://www.moskva.mts.ru/
+https://beeline.ru
+https://mts.ru

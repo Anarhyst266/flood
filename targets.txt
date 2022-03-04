@@ -195,3 +195,4 @@ https://yoomoney.ru
 https://tass.ru/
 http://185.170.2.231
 http://185.170.2.232
+https://online.sberbank.ru/

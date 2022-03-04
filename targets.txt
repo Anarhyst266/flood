@@ -200,3 +200,4 @@ https://moskva.beeline.ru/
 https://www.moskva.mts.ru/
 https://beeline.ru
 https://mts.ru
+https://ok.ru

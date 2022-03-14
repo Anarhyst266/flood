@@ -206,3 +206,6 @@ https://my.bank-hlynov.ru
 https://link.centrinvest.ru
 https://chbrr.crimea.com
 https://enter.unicredit.ru
+https://koronapay.com
+https://api.koronapay.com
+https://auth.tcsbank.ru

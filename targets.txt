@@ -182,3 +182,14 @@ https://koronapay.com
 https://api.koronapay.com
 https://auth.tcsbank.ru
 https://alfabank.ru
+https://www.equifax.ru
+https://www.banki.ru
+https://37.16.85.113
+https://37.16.85.113 
+https://178.216.96.114
+https://176.74.12.38
+https://37.16.85.182
+https://185.71.67.241
+https://185.10.61.125
+https://92.223.124.254
+https://185.10.61.116
